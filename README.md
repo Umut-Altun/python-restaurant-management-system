@@ -2,15 +2,15 @@
 
   
 
-📌 Proje Hakkında
+## 📌 Proje Hakkında
 
 Bu proje, Python (PyQt5) ve MySQL kullanılarak geliştirilen bir Restaurant Yönetim ve Adisyon Sistemidir. Restoran işletmelerinin masaları yönetmesine, müşteri siparişlerini takip etmesine ve mutfak, raporlama gibi işlemleri kolaylaştırmasına yardımcı olur.
 
-🚀 Özellikler
+## 🚀 Özellikler
 
 ✅ Masa Yönetimi: Restorandaki masaları görüntüleme ve kontrol etme✅ Paket Sipariş Yönetimi: Paket servis siparişlerini takip etme✅ Müşteri Yönetimi: Müşteri bilgilerini kaydetme ve görüntüleme✅ Ayarlar: Sistem ayarlarını yapılandırma✅ Mutfak Yönetimi: Mutfaktaki siparişleri takip etme✅ Raporlama: Günlük satış ve işlem raporları alma✅ Yetkilendirme Sistemi: Admin ve kullanıcı seviyelerinde erişim kontrolleri✅ Gerçek Zamanlı Tarih & Saat: Sistem tarih ve saat bilgisini dinamik olarak güncelleme✅ Wi-Fi Bağlantı Kontrolü: Sistem bağlantı durumunu periyodik olarak kontrol etme
 
-🛠️ Kullanılan Teknolojiler
+## 🛠️ Kullanılan Teknolojiler
 
 🐍 Python (PyQt5) - Masaüstü arayüz geliştirme
 
@@ -20,45 +20,18 @@ Bu proje, Python (PyQt5) ve MySQL kullanılarak geliştirilen bir Restaurant Yö
 
 🌐 Wi-Fi Durum Kontrolü - Ağ bağlantı kontrolü
 
-📦 Kurulum
 
-1️⃣ Gerekli Bağımlılıkları Yükleyin
+## 📸 Arayüz Görselleri!
+[Ekran görüntüsü 2025-02-10 033729](https://github.com/user-attachments/assets/cae8623f-5d76-42c6-9eb5-ef0d7921e092)
+![Ekran görüntüsü 2025-02-10 033721](https://github.com/user-attachments/assets/9d9efbc5-056d-465e-a294-0c5b52b8bb03)
 
-Aşağıdaki komutları çalıştırarak bağımlılıkları yükleyin:
-
-pip install PyQt5 mysql-connector-python
-
-2️⃣ Veritabanını Ayarlayın
-
-MySQL veritabanınızı oluşturun ve aşağıdaki tabloları ekleyin:
-
-CREATE TABLE personelhareketleri (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    personelAd VARCHAR(255),
-    tarih TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
-
-3️⃣ Projeyi Çalıştırın
-
-Ana menüyü başlatmak için aşağıdaki komutu çalıştırın:
-
-python main.py
-
-📸 Arayüz Görselleri
-
-
-
-🤝 Katkıda Bulunun
-
+## 🤝 Katkıda Bulunun
 Bu projeye katkıda bulunmak için pull request gönderebilir veya issue açabilirsiniz.
 
-📜 Lisans
-
+## 📜 Lisans
 Bu proje MIT Lisansı ile lisanslanmıştır.
 
-📞 İletişim
-
-📧 E-posta: example@example.com🔗 GitHub: GitHub Kullanıcı Adınız
-
-🎯 Proje Sahibi: [GitHub Kullanıcı Adınız]
+## 📞 İletişim
+📧 E-posta: altunumut7@gmail.com🔗 
+🎯 Proje Sahibi: [Umut-Altun]
 
