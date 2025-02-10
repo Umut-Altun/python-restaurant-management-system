@@ -13,23 +13,21 @@ Bu proje, Python (PyQt5) ve MySQL kullanılarak geliştirilen bir Restaurant Yö
 ## 🛠️ Kullanılan Teknolojiler
 
 🐍 Python (PyQt5) - Masaüstü arayüz geliştirme
-
 🗄️ MySQL - Veritabanı yönetimi
-
 ⏳ QTimer - Gerçek zamanlı işlemler için zamanlayıcı
-
 🌐 Wi-Fi Durum Kontrolü - Ağ bağlantı kontrolü
 
 
-## 📸 Arayüz Görselleri!
-
 ## 🤝 Katkıda Bulunun
+
 Bu projeye katkıda bulunmak için pull request gönderebilir veya issue açabilirsiniz.
 
 ## 📜 Lisans
+
 Bu proje MIT Lisansı ile lisanslanmıştır.
 
 ## 📞 İletişim
-📧 E-posta: altunumut7@gmail.com🔗 
+
+📧 E-posta: altunumut7@gmail.com
 🎯 Proje Sahibi: [Umut-Altun]
 
