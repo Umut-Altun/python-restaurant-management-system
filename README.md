@@ -1,6 +1,6 @@
 # 🍽️ Restaurant Yönetim & Adisyon Sistemi
 
-  
+[Ekran görüntüsü 2025-02-10 033721](https://github.com/user-attachments/assets/9d9efbc5-056d-465e-a294-0c5b52b8bb03)
 
 ## 📌 Proje Hakkında
 
@@ -23,7 +23,6 @@ Bu proje, Python (PyQt5) ve MySQL kullanılarak geliştirilen bir Restaurant Yö
 
 ## 📸 Arayüz Görselleri!
 [Ekran görüntüsü 2025-02-10 033729](https://github.com/user-attachments/assets/cae8623f-5d76-42c6-9eb5-ef0d7921e092)
-![Ekran görüntüsü 2025-02-10 033721](https://github.com/user-attachments/assets/9d9efbc5-056d-465e-a294-0c5b52b8bb03)
 
 ## 🤝 Katkıda Bulunun
 Bu projeye katkıda bulunmak için pull request gönderebilir veya issue açabilirsiniz.
