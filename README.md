@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Yönetim & Adisyon Sistemi
+# ‼️ Projeyi "star" butonundan yıldızlamayı unutmayın dostlar
 
 ![Ekran görüntüsü 2025-02-10 033729](https://github.com/user-attachments/assets/c438754b-d471-46b8-8eb2-d3bdc08b20a1)
 
