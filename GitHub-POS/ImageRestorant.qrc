@@ -1,0 +1,78 @@
+<RCC>
+  <qresource prefix="tema">
+    <file>resimler/tema/kısaEkran.png</file>
+    <file>resimler/tema/rprplan.png</file>
+    <file>resimler/tema/ae.png</file>
+    <file>resimler/tema/frmarka.png</file>
+    <file>resimler/tema/Planc.png</file>
+    <file>resimler/tema/masaplan.png</file>
+    <file>resimler/tema/arkaplan.png</file>
+    <file>resimler/tema/onplan.png</file>
+    <file>resimler/tema/bin.png</file>
+    <file>resimler/tema/keyboard (2).png</file>
+  </qresource>
+  <qresource prefix="nmasalar">
+    <file>resimler/MASA/bos_masa.png</file>
+    <file>resimler/MASA/BOS.png</file>
+    <file>resimler/MASA/dolu_masa.png</file>
+    <file>resimler/MASA/DOLU.png</file>
+  </qresource>
+  <qresource prefix="ıconlar">
+    <file>resimler/ıcon/premim.png</file>
+    <file>resimler/ıcon/Graphicloads-Food-Drink-Sausage.256.png</file>
+    <file>resimler/ıcon/burrito (1).png</file>
+    <file>resimler/ıcon/log-out (1).png</file>
+    <file>resimler/ıcon/back.png</file>
+    <file>resimler/ıcon/package (1).png</file>
+    <file>resimler/ıcon/package (2).png</file>
+    <file>resimler/ıcon/package (3).png</file>
+    <file>resimler/ıcon/money (1).png</file>
+    <file>resimler/ıcon/money (2).png</file>
+    <file>resimler/ıcon/more (1).png</file>
+    <file>resimler/ıcon/server.png</file>
+    <file>resimler/ıcon/signal.png</file>
+    <file>resimler/ıcon/user.png</file>
+    <file>resimler/ıcon/logout.png</file>
+    <file>resimler/ıcon/Alecive-Flatwoken-Apps-Dialog-Remove.512.png</file>
+    <file>resimler/ıcon/Alecive-Flatwoken-Apps-Dialog-Shutdown.512.png</file>
+    <file>resimler/ıcon/Alecive-Flatwoken-Apps-Feedly.512.png</file>
+    <file>resimler/ıcon/Alecive-Flatwoken-Apps-Libreoffice-Base-B.512.png</file>
+    <file>resimler/ıcon/Alecive-Flatwoken-Apps-Libreoffice-Writer.512.png</file>
+    <file>resimler/ıcon/Alecive-Flatwoken-Apps-Lock-Ok.512.png</file>
+    <file>resimler/ıcon/Alecive-Flatwoken-Apps-Rotate-Right.512.png</file>
+    <file>resimler/ıcon/Alecive-Flatwoken-Apps-Solaar.512.png</file>
+    <file>resimler/ıcon/Alecive-Flatwoken-Apps-Unlock.512.png</file>
+    <file>resimler/ıcon/Ampeross-Qetto-2-Check.256.png</file>
+    <file>resimler/ıcon/Ampeross-Qetto-2-No.256.png</file>
+    <file>resimler/ıcon/Custom-Icon-Design-Flatastic-4-Add-item.512.png</file>
+    <file>resimler/ıcon/Custom-Icon-Design-Flatastic-4-Male-user-add.512.png</file>
+    <file>resimler/ıcon/Custom-Icon-Design-Flatastic-4-Male-user-edit.512.png</file>
+    <file>resimler/ıcon/Custom-Icon-Design-Flatastic-4-Male-user-remove.512.png</file>
+    <file>resimler/ıcon/Custom-Icon-Design-Flatastic-4-Remove-item.512.png</file>
+    <file>resimler/ıcon/Custom-Icon-Design-Flatastic-4-Shopping-cart-accept.512.png</file>
+    <file>resimler/ıcon/Custom-Icon-Design-Flatastic-4-Shopping-cart-add.512.png</file>
+    <file>resimler/ıcon/Custom-Icon-Design-Flatastic-4-Shopping-cart-remove.512.png</file>
+    <file>resimler/ıcon/Graphicloads-100-Flat-Analytics.256.png</file>
+    <file>resimler/ıcon/Graphicloads-100-Flat-Check.256.png</file>
+    <file>resimler/ıcon/Graphicloads-100-Flat-Contact.256.png</file>
+    <file>resimler/ıcon/Graphicloads-100-Flat-Currency.256.png</file>
+    <file>resimler/ıcon/Graphicloads-100-Flat-Folder.256.png</file>
+    <file>resimler/ıcon/Graphicloads-100-Flat-Home.256.png</file>
+    <file>resimler/ıcon/Graphicloads-100-Flat-Locked.256.png</file>
+    <file>resimler/ıcon/Graphicloads-100-Flat-Print.256.png</file>
+    <file>resimler/ıcon/Graphicloads-100-Flat-Reload.256.png</file>
+    <file>resimler/ıcon/Graphicloads-100-Flat-Settings-3.256.png</file>
+    <file>resimler/ıcon/Graphicloads-100-Flat-Zoom-in.256.png</file>
+    <file>resimler/ıcon/Graphicloads-100-Flat-Zoom-out.256.png</file>
+    <file>resimler/ıcon/Graphicloads-100-Flat-Zoom-search-2.256.png</file>
+    <file>resimler/ıcon/Graphicloads-Food-Drink-Chicken.256.png</file>
+    <file>resimler/ıcon/Graphicloads-Food-Drink-Dish.256.png</file>
+    <file>resimler/ıcon/Graphicloads-Food-Drink-Dish-2.256.png</file>
+    <file>resimler/ıcon/Graphicloads-Food-Drink-Drink.256.png</file>
+    <file>resimler/ıcon/Graphicloads-Food-Drink-Drink-4.256.png</file>
+    <file>resimler/ıcon/Graphicloads-Food-Drink-Icecream-4.256.png</file>
+    <file>resimler/ıcon/Graphicloads-Food-Drink-Leaf.256.png</file>
+    <file>resimler/ıcon/Graphicloads-Food-Drink-Sweet.256.png</file>
+    <file>resimler/ıcon/Webalys-Kameleon.pics-Food-Dome.512.png</file>
+  </qresource>
+</RCC>
